@@ -1,0 +1,21 @@
+D:\Dev\SkillBox\Less 3\3.1_Исходники\Theme_03\Lesson_08\Homework_Theme_03\bin\Debug\Homework_Theme_03.exe.config
+D:\Dev\SkillBox\Less 3\3.1_Исходники\Theme_03\Lesson_08\Homework_Theme_03\bin\Debug\Homework_Theme_03.exe
+D:\Dev\SkillBox\Less 3\3.1_Исходники\Theme_03\Lesson_08\Homework_Theme_03\bin\Debug\Homework_Theme_03.pdb
+D:\Dev\SkillBox\Less 3\3.1_Исходники\Theme_03\Lesson_08\Homework_Theme_03\obj\Debug\Homework_Theme_03.csproj.CoreCompileInputs.cache
+D:\Dev\SkillBox\Less 3\3.1_Исходники\Theme_03\Lesson_08\Homework_Theme_03\obj\Debug\Homework_Theme_03.exe
+D:\Dev\SkillBox\Less 3\3.1_Исходники\Theme_03\Lesson_08\Homework_Theme_03\obj\Debug\Homework_Theme_03.pdb
+D:\Dev\SkillBox\Less 3\3.1_Исходники\Theme_03\Lesson_08\Homework_Theme_03\obj\Debug\Homework_Theme_03.csprojAssemblyReference.cache
+D:\Dev\SkillBox\Less 3\HomeWork 3\Exercise 1\3.1_Исходники\Theme_03\Lesson_08\Homework_Theme_03\obj\Debug\Homework_Theme_03.csprojAssemblyReference.cache
+D:\Dev\SkillBox\Less 3\HomeWork 3\Exercise 1\3.1_Исходники\Theme_03\Lesson_08\Homework_Theme_03\obj\Debug\Homework_Theme_03.csproj.CoreCompileInputs.cache
+D:\Dev\SkillBox\Less 3\HomeWork 3\Exercise 1\3.1_Исходники\Theme_03\Lesson_08\Homework_Theme_03\obj\Debug\Homework_Theme_03.exe
+D:\Dev\SkillBox\Less 3\HomeWork 3\Exercise 1\3.1_Исходники\Theme_03\Lesson_08\Homework_Theme_03\obj\Debug\Homework_Theme_03.pdb
+D:\Dev\SkillBox\Less 3\HomeWork 3\Exercise 1\3.1_Исходники\Theme_03\Lesson_08\Homework_Theme_03\bin\Debug\Homework_Theme_03.exe.config
+D:\Dev\SkillBox\Less 3\HomeWork 3\Exercise 1\3.1_Исходники\Theme_03\Lesson_08\Homework_Theme_03\bin\Debug\Homework_Theme_03.exe
+D:\Dev\SkillBox\Less 3\HomeWork 3\Exercise 1\3.1_Исходники\Theme_03\Lesson_08\Homework_Theme_03\bin\Debug\Homework_Theme_03.pdb
+D:\Dev\SkillBox\Less 3\HomeWork 3\Homework_Theme_03\bin\Debug\Homework_Theme_03.exe.config
+D:\Dev\SkillBox\Less 3\HomeWork 3\Homework_Theme_03\bin\Debug\Homework_Theme_03.exe
+D:\Dev\SkillBox\Less 3\HomeWork 3\Homework_Theme_03\bin\Debug\Homework_Theme_03.pdb
+D:\Dev\SkillBox\Less 3\HomeWork 3\Homework_Theme_03\obj\Debug\Homework_Theme_03.csprojAssemblyReference.cache
+D:\Dev\SkillBox\Less 3\HomeWork 3\Homework_Theme_03\obj\Debug\Homework_Theme_03.csproj.CoreCompileInputs.cache
+D:\Dev\SkillBox\Less 3\HomeWork 3\Homework_Theme_03\obj\Debug\Homework_Theme_03.exe
+D:\Dev\SkillBox\Less 3\HomeWork 3\Homework_Theme_03\obj\Debug\Homework_Theme_03.pdb
